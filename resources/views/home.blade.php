@@ -7,7 +7,7 @@
     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="w-100" src="{{ asset('public/tyre/img/4a.jpg') }}" alt="Image">
+                <img class="w-100" src="{{ asset('public/tyre/img/29a.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center">
                     <div class="container">
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="w-100" src="{{ asset('public/tyre/img/11a.jpg') }}" alt="Image">
+                <img class="w-100" src="{{ asset('public/tyre/img/28a.jpg') }}" alt="Image">
 
                 <div class="carousel-caption d-flex align-items-center">
                     <div class="container">
@@ -67,33 +67,33 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="row g-4">
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="col-lg-4 col-md-6 wow rollIn" data-wow-delay="0.1s">
                 <div class="d-flex bg-light py-5 px-4">
                     <i class="fa fa-clock fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h5 class="mb-3">24/7 Service</h5>
                         <p>We understand that vehicle issues can happen anytime. Our 24/7 service ensures that you can rely on us around the clock for any emergency repairs or assistance.</p>
-                        <a class="text-secondary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="col-lg-4 col-md-6 wow rollIn" data-wow-delay="0.3s">
                 <div class="d-flex bg-light py-5 px-4">
                     <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h5 class="mb-3">Dedicated Team</h5>
                         <p>Our team consists of skilled and experienced workers dedicated to providing expert solutions for your vehicle needs. Count on us for professionalism and expertise.</p>
-                        <a class="text-secondary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                <div class="d-flex py-5 px-4">
+            <div class="col-lg-4 col-md-6 wow rollIn" data-wow-delay="0.5s">
+                <div class="d-flex bg-light py-5 px-4">
                     <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h5 class="mb-3">Modern Equipment</h5>
-                        <p>We use state-of-the-art modern equipment to ensure precision and efficiency in our services. Experience the benefits of advanced technology for your vehicle maintenance.</p>
-                        <a class="text-secondary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <p>We use modern equipment to ensure precision and efficiency in our services. Experience the benefits of advanced technology for your vehicle maintenance.</p>
+                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
@@ -328,87 +328,73 @@
 
 
 
-<!-- Team Start -->
-<div class="container-xxl py-5">
+<!-- Booking Start -->
+<div class="container-fluid bg-secondary booking my-5 wow fadeInUp text-center" data-wow-delay="0.1s">
     <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="text-primary text-uppercase">// Our Technicians //</h6>
-            <h1 class="mb-5">Our Expert Technicians</h1>
-        </div>
-        <div class="row g-4">
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('public/tyre/img/team-1.jpg') }}" alt="">
-                        <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="fw-bold mb-0">Full Name</h5>
-                        <small>Designation</small>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('public/tyre/img/team-2.jpg') }}" alt="">
-                        <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="fw-bold mb-0">Full Name</h5>
-                        <small>Designation</small>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('public/tyre/img/team-3.jpg') }}" alt="">
-
-                        <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="fw-bold mb-0">Full Name</h5>
-                        <small>Designation</small>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid" src="{{ asset('public/tyre/img/team-4.jpg') }}" alt="">
-                        <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="fw-bold mb-0">Full Name</h5>
-                        <small>Designation</small>
-                    </div>
+        <div class="row gx-5">
+            <div class="col-lg-12 py-5">
+                <div class="py-5">
+                    <h1 class="text-white mb-4">Certified and Award Winning Car Repair Service Provider</h1>
+                    <p class="text-white mb-0">We are a team of dedicated professionals committed to providing top-notch car repair services. With our certified technicians and state-of-the-art facilities, we ensure the highest quality service for your vehicle. Our commitment to excellence has earned us recognition and awards in the automotive industry. Trust us with your car repair needs, and experience the difference in our service.</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- Team End -->
+<!-- Booking End -->
+
+
+
+
+
+<!-- Testimonial Start -->
+<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="text-center">
+            <h6 class="text-primary text-uppercase">// Testimonial //</h6>
+            <h1 class="mb-5">Our Clients Say!</h1>
+        </div>
+        <div class="owl-carousel testimonial-carousel position-relative">
+            <div class="testimonial-item text-center">
+                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <h5 class="mb-0">Kumar Shyam</h5>
+                <p>Dubai</p>
+                <div class="testimonial-text bg-light text-center p-4">
+                <p class="mb-0">Had a very minor issue but a guy came down as soon as he could after Ramadan prayers and fixed it up in a jiffy while also being extremely courteous and polite. One of the knowledgeable mechanics that are hard to find. Best part he didn't create a fuss over a lost in translation misunderstanding moment. Highly recommended.</p>
+                </div>
+            </div>
+            <div class="testimonial-item text-center">
+                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <h5 class="mb-0">Sajad Aslam</h5>
+                <p>Abu Dhabi</p>
+                <div class="testimonial-text bg-light text-center p-4">
+                <p class="mb-0">Excellent & Efficient Tyre Replacement Service by team Lenya Car Hero, Super Fast Service, Reached within few minutes and replaced Tyres, Recommended for Tyres, Battery Replacement and roadside breakdown solutions.</p>
+                </div>
+            </div>
+            <div class="testimonial-item text-center">
+                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <h5 class="mb-0">Efren Arroyo Jr.</h5>
+                <p>Sharjah</p>
+                <div class="testimonial-text bg-light text-center p-4">
+                <p class="mb-0">I was thoroughly impressed with their professionalism and expertise. The staff was friendly and communicative, keeping me updated on the progress of my repairs throughout the process. The quality of the work was top-notch and I would highly recommend this auto repair service to anyone in need.</p>
+                </div>
+            </div>
+            <div class="testimonial-item text-center">
+                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <h5 class="mb-0">Chahrazed Abdennour</h5>
+                <p>Dubai</p>
+                <div class="testimonial-text bg-light text-center p-4">
+                <p class="mb-0">So happy with this company,  the service is very quick and professional, and especially Ahmed he is a true Hero and very professional! They even follow up and provide all the information needed.	</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial End -->
 
 
 <!-- Trusted by Section -->
-<div class="container-fluid bg-secondary booking trusted-by my-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid bg-secondary booking1 trusted-by my-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 py-5 text-center">
@@ -449,52 +435,6 @@
 </div>
 
 <!-- Trusted By End -->
-
-
-<!-- Testimonial Start -->
-<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container">
-        <div class="text-center">
-            <h6 class="text-primary text-uppercase">// Testimonial //</h6>
-            <h1 class="mb-5">Our Clients Say!</h1>
-        </div>
-        <div class="owl-carousel testimonial-carousel position-relative">
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/testimonial-3.jpg') }}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Kumar Shyam</h5>
-                <p>Dubai</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                <p class="mb-0">Had a very minor issue but a guy came down as soon as he could after Ramadan prayers and fixed it up in a jiffy while also being extremely courteous and polite. One of the knowledgeable mechanics that are hard to find. Best part he didn't create a fuss over a lost in translation misunderstanding moment. Highly recommended.</p>
-                </div>
-            </div>
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/testimonial-2.jpg') }}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Sajad Aslam</h5>
-                <p>Abu Dhabi</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                <p class="mb-0">Excellent & Efficient Tyre Replacement Service by team Lenya Car Hero, Super Fast Service, Reached within few minutes and replaced Tyres, Recommended for Tyres, Battery Replacement and roadside breakdown solutions.</p>
-                </div>
-            </div>
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/testimonial-3.jpg') }}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Efren Arroyo Jr.</h5>
-                <p>Sharjah</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                <p class="mb-0">I was thoroughly impressed with their professionalism and expertise. The staff was friendly and communicative, keeping me updated on the progress of my repairs throughout the process. The quality of the work was top-notch and I would highly recommend this auto repair service to anyone in need.</p>
-                </div>
-            </div>
-            <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/testimonial-4.jpg') }}" style="width: 80px; height: 80px;">
-                <h5 class="mb-0">Chahrazed Abdennour</h5>
-                <p>Dubai</p>
-                <div class="testimonial-text bg-light text-center p-4">
-                <p class="mb-0">So happy with this company,  the service is very quick and professional, and especially Ahmed he is a true Hero and very professional! They even follow up and provide all the information needed.	</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Testimonial End -->
 
 
 

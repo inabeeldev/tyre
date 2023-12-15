@@ -223,6 +223,16 @@
     background-size: cover;
 }
 
+.booking1 {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/11a.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.serv2 {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/31a.jpg) center center no-repeat;
+    background-size: cover;
+}
+
 .bootstrap-datetimepicker-widget.bottom {
     top: auto !important;
 }
