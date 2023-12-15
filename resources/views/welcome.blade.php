@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>OnlineTireShop - Car Services</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
@@ -162,9 +162,9 @@
     <!-- Footer End -->
 
 
-    <div class="contact-icons text-center">
-    <a href="whatsapp://send?phone=+123456789" class="btn btn-lg btn-success btn-lg-square"><i class="fab fa-whatsapp"></i></a>
-    <a href="tel:+123456789" class="btn btn-lg btn-primary btn-lg-square"><i class="fas fa-phone"></i></a>
+<div class="contact-icons text-center">
+    <a href="whatsapp://send?phone=+971585914376" class="btn btn-lg btn-success btn-lg-square"><i class="fab fa-whatsapp"></i></a>
+    <a href="tel:+971585914376" class="btn btn-lg btn-primary btn-lg-square"><i class="fas fa-phone"></i></a>
 </div>
 
 <!-- Back to Top -->

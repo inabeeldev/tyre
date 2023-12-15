@@ -25,9 +25,18 @@
     z-index: 99;
 }
 
-.contact-icons a {
+.contact-icons .btn-success {
     margin-bottom: 10px;
 }
+
+/* @media (max-width: 767px) {
+    .contact-icons {
+        position: fixed;
+        left: 30px;
+        bottom: 20px;
+        z-index: 99;
+    }
+} */
 
 /*** Spinner ***/
 #spinner {
