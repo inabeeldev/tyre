@@ -13,14 +13,14 @@
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
-                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Your
+                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInUp">Your
                                     ALL-IN-ONE,
                                     ON-DEMAND,
                                     MOBILE auto repair
                                     solution provider.</h1>
                                 <a href="tel:+15551234567" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
-                            <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
+                            <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
                                 <img class="w-100" src="{{ asset('public/tyre/img/19a.png') }}" alt="Image">
 
                             </div>
@@ -36,10 +36,10 @@
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
-                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Repair Service Center</h1>
+                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInUp">Qualified Car Repair Service Center</h1>
                                 <a href="tel:+15551234567" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
-                            <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
+                            <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
                                 <img class="w-100" src="{{ asset('public/tyre/img/26a.png') }}" alt="Image">
 
                             </div>
@@ -109,17 +109,17 @@
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 pt-4" style="min-height: 400px;">
-                <div class="position-relative h-100 wow fadeIn" data-wow-delay="0.1s">
-                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/23a.jpg') }}" style="object-fit: cover;" alt="">
+                <div class="position-relative h-100 wow fadeInUpBig" data-wow-delay="0.1s">
+                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/16a.jpg') }}" style="object-fit: cover;" alt="">
                     <div class="position-absolute top-0 end-0 mt-n4 me-n4 py-4 px-5" style="background: rgba(0, 0, 0, .08);">
                         <h1 class="display-4 text-white mb-0">15 <span class="fs-4">Years</span></h1>
                         <h4 class="text-white">of Service</h4>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 wow fadeInRight">
                 <h6 class="text-primary text-uppercase">// About Us //</h6>
-                <h1 class="mb-4"><span class="text-primary">Car Hero</span> Is The Best Place For Your Auto Care</h1>
+                <h1 class="mb-4"><span class="text-primary">OnlineTireShop</span> Is The Best Place For Your Auto Care</h1>
                 <p class="mb-4">We are one of the prominent online tyres trading companies in the Middle East. Formed in 2018 and located in Dubai. We have grown in leaps & bounds to become one of the leading tire trading companies with well established network of authorized distributors catering to the UAE market.</p>
                 <div class="row g-4 mb-3 pb-3">
                     <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
@@ -165,25 +165,25 @@
 
 
 <!-- Fact Start -->
-<div class="container-fluid fact bg-dark my-5 py-5">
+<div class="container-fluid fact bg-dark my-5 py-5 wow rotateInUpRight" data-wow-delay="0.1s">
     <div class="container">
         <div class="row g-4">
-            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
+            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                 <i class="fa fa-check fa-2x text-white mb-3"></i>
                 <h2 class="text-white mb-2" data-toggle="counter-up">15</h2>
                 <p class="text-white mb-0">Years of Service</p>
             </div>
-            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
+            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                 <i class="fa fa-users-cog fa-2x text-white mb-3"></i>
                 <h2 class="text-white mb-2" data-toggle="counter-up">20</h2>
                 <p class="text-white mb-0">Expert Technicians</p>
             </div>
-            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
+            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                 <i class="fa fa-users fa-2x text-white mb-3"></i>
                 <h2 class="text-white mb-2" data-toggle="counter-up">1200</h2>
                 <p class="text-white mb-0">Satisfied Clients</p>
             </div>
-            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
+            <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.9s">
                 <i class="fa fa-car fa-2x text-white mb-3"></i>
                 <h2 class="text-white mb-2" data-toggle="counter-up">20</h2>
                 <p class="text-white mb-0">No of Services</p>
@@ -199,9 +199,14 @@
     <div class="container">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
             <h6 class="text-primary text-uppercase">// Our Services //</h6>
-            <h1 class="mb-5">Explore Our Services</h1>
+            <div class="d-flex align-items-center justify-content-center mb-5">
+                <i class="fas fa-car text-primary fa-2x me-3 icon-shake"></i>
+                <h1>Explore Our Services</h1>
+                <i class="fas fa-car text-primary fa-2x ms-3 icon-shake"></i>
+            </div>
         </div>
-        <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
+
+        <div class="row g-4 wow bounceInLeft" data-wow-delay="0.3s">
             <div class="col-lg-4">
                 <div class="nav w-100 nav-pills me-4">
                     <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
@@ -329,7 +334,7 @@
 
 
 <!-- Booking Start -->
-<div class="container-fluid bg-secondary booking my-5 wow fadeInUp text-center" data-wow-delay="0.1s">
+<div class="container-fluid bg-secondary booking my-5 wow rollIn text-center" data-wow-delay="0.1s">
     <div class="container">
         <div class="row gx-5">
             <div class="col-lg-12 py-5">
@@ -348,7 +353,7 @@
 
 
 <!-- Testimonial Start -->
-<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-xxl py-5 wow slideInBounce" data-wow-delay="0.3s">
     <div class="container">
         <div class="text-center">
             <h6 class="text-primary text-uppercase">// Testimonial //</h6>
@@ -356,7 +361,7 @@
         </div>
         <div class="owl-carousel testimonial-carousel position-relative">
             <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
                 <h5 class="mb-0">Kumar Shyam</h5>
                 <p>Dubai</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -364,15 +369,15 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
                 <h5 class="mb-0">Sajad Aslam</h5>
                 <p>Abu Dhabi</p>
                 <div class="testimonial-text bg-light text-center p-4">
-                <p class="mb-0">Excellent & Efficient Tyre Replacement Service by team Lenya Car Hero, Super Fast Service, Reached within few minutes and replaced Tyres, Recommended for Tyres, Battery Replacement and roadside breakdown solutions.</p>
+                <p class="mb-0">Excellent & Efficient Tyre Replacement Service by team Lenya OnlineTireShop, Super Fast Service, Reached within few minutes and replaced Tyres, Recommended for Tyres, Battery Replacement and roadside breakdown solutions.</p>
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
                 <h5 class="mb-0">Efren Arroyo Jr.</h5>
                 <p>Sharjah</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -380,7 +385,7 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-light rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
                 <h5 class="mb-0">Chahrazed Abdennour</h5>
                 <p>Dubai</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -394,7 +399,7 @@
 
 
 <!-- Trusted by Section -->
-<div class="container-fluid bg-secondary booking1 trusted-by my-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid bg-secondary booking1 trusted-by my-5 wow slideInRight" data-wow-delay="0.1s">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 py-5 text-center">

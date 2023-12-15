@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Car Hero - Car Services</title>
+    <title>OnlineTireShop - Car Services</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -77,7 +77,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="{{ url('/') }}" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h2 class="m-0 text-primary"><i class="fa fa-car me-3"></i>Car Hero</h2>
+            <h2 class="m-0 text-primary"><i class="fa fa-car me-3"></i>OnlineTireShop</h2>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -89,7 +89,7 @@
                 <a href="{{ url('/services') }}" class="nav-item nav-link{{ Request::is('services') ? ' active' : '' }}">Services</a>
                 <a href="{{ url('/contact') }}" class="nav-item nav-link{{ Request::is('contact') ? ' active' : '' }}">Contact</a>
             </div>
-            <a href="whatsapp://send?phone=+971585914376" class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Whatsapp<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="whatsapp://send?phone=+971585914376" class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Whatsapp Us<i class="fa fa-arrow-right ms-3"></i></a>
 
         </div>
     </nav>
@@ -106,12 +106,12 @@
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3 text-primary"></i>Dubai, United Arab Emirates</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3 text-primary"></i>+971 58 591 4376</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3 text-primary"></i>admin@onlinetireshop.ae</p>
-                    <div class="d-flex pt-2">
+                    {{-- <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
+                    </div> --}}
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-primary mb-4">Opening Hours</h4>
@@ -162,8 +162,13 @@
     <!-- Footer End -->
 
 
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+    <div class="contact-icons text-center">
+    <a href="whatsapp://send?phone=+123456789" class="btn btn-lg btn-success btn-lg-square"><i class="fab fa-whatsapp"></i></a>
+    <a href="tel:+123456789" class="btn btn-lg btn-primary btn-lg-square"><i class="fas fa-phone"></i></a>
+</div>
+
+<!-- Back to Top -->
+<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 
     <!-- JavaScript Libraries -->

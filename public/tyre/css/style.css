@@ -13,11 +13,21 @@
 .back-to-top {
     position: fixed;
     display: none;
-    right: 45px;
-    bottom: 45px;
+    right: 30px;
+    bottom: 20px;
     z-index: 99;
 }
 
+.contact-icons {
+    position: fixed;
+    left: 30px;
+    bottom: 20px;
+    z-index: 99;
+}
+
+.contact-icons a {
+    margin-bottom: 10px;
+}
 
 /*** Spinner ***/
 #spinner {
@@ -391,3 +401,33 @@
     padding-right: 0;
     border-right: none;
 }
+
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px) rotate(0.5deg); }
+    50% { transform: translateX(5px) rotate(-0.5deg); }
+    75% { transform: translateX(-5px) rotate(0.5deg); }
+    100% { transform: translateX(0); }
+}
+
+.shake-slow {
+    animation: shake 3s infinite; /* Adjust the duration as needed */
+}
+
+
+@keyframes slideInBounce {
+    0% { transform: translateY(-500px); opacity: 0; }
+    60% { transform: translateY(20px); }
+    80% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+}
+
+.slideInBounce {
+    animation: slideInBounce 1s ease;
+}
+
+.icon-shake {
+    animation: shake 5s infinite; /* Adjust the duration as needed */
+}
+
