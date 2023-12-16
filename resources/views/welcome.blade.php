@@ -89,7 +89,7 @@
                 <a href="{{ url('/services') }}" class="nav-item nav-link{{ Request::is('services') ? ' active' : '' }}">Services</a>
                 <a href="{{ url('/contact') }}" class="nav-item nav-link{{ Request::is('contact') ? ' active' : '' }}">Contact</a>
             </div>
-            <a href="whatsapp://send?phone=+971585914376" class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Whatsapp Us<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" class="btn btn-success py-4 px-lg-5 d-none d-lg-block" target="_blank">Whatsapp Us<i class="fa fa-arrow-right ms-3"></i></a>
 
         </div>
     </nav>
@@ -163,7 +163,7 @@
 
 
 <div class="contact-icons text-center">
-    <a href="whatsapp://send?phone=+971585914376" class="btn btn-lg btn-success btn-lg-square"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-lg btn-success btn-lg-square"><i class="fab fa-whatsapp"></i></a>
     <a href="tel:+971585914376" class="btn btn-lg btn-primary btn-lg-square"><i class="fas fa-phone"></i></a>
 </div>
 

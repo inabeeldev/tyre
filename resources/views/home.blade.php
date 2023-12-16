@@ -13,11 +13,9 @@
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
-                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInUp">Your
-                                    ALL-IN-ONE,
-                                    ON-DEMAND,
-                                    MOBILE auto repair
-                                    solution provider.</h1>
+                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInUp">
+                                    Your ALL-IN-ONE ON-DEMAND MOBILE NEW TYRE, and auto repair solution provider
+                                </h1>
                                 <a href="tel:+15551234567" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
@@ -63,6 +61,45 @@
 <!-- Carousel End -->
 
 
+
+<!-- Why Choose Us Section Start -->
+<div class="container-fluid booking4 my-5 wow bounceInRight text-center" data-wow-delay="0.1s">
+    <div class="container">
+        <h1 class="section-title mb-4">Why Choose Us</h1>
+        <div class="row gx-5">
+            <div class="col-lg-3 py-3 bg-column mr-3">
+                <div class="py-3">
+                    <img src="{{ asset('public/tyre/img/35a.jpg') }}" alt="Service 1" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <h4 class="service-title">Quality Repairs</h4>
+                    <p class="service-description">Our experienced technicians provide top-notch car repair services, specializing in tire repairs. We ensure the highest quality repairs for your vehicle, extending the life of your tires and enhancing your overall driving experience.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 py-3 bg-column mr-3">
+                <div class="py-3">
+                    <img src="{{ asset('public/tyre/img/36a.jpg') }}" alt="Service 2" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <h4 class="service-title">Onsite Tire Repair</h4>
+                    <p class="service-description">Experience the convenience of our onsite tire repair service. Our team will come to you, providing quick and reliable tire repairs wherever you are. We understand the importance of your time and strive to make tire repairs hassle-free.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 py-3 bg-column mr-3">
+                <div class="py-3">
+                    <img src="{{ asset('public/tyre/img/37a.jpg') }}" alt="Service 3" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <h4 class="service-title">New Tire Service</h4>
+                    <p class="service-description">Explore our selection of high-quality new tires. Whether you need a replacement or an upgrade, we offer a range of tire options to suit your vehicle and driving preferences. Drive with confidence on our top-of-the-line new tires.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 py-3 bg-column">
+                <div class="py-3">
+                    <img src="{{ asset('public/tyre/img/38a.jpg') }}" alt="Service 4" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <h4 class="service-title">Customer Satisfaction</h4>
+                    <p class="service-description">Our commitment to customer satisfaction has earned us recognition in the automotive industry. Experience the difference in our tire services, from repairs to new tire installations. We prioritize your safety and driving comfort.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Why Choose Us Section End -->
+
 <!-- Service Start -->
 <div class="container-xxl py-5">
     <div class="container">
@@ -73,7 +110,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">24/7 Service</h5>
                         <p>We understand that vehicle issues can happen anytime. Our 24/7 service ensures that you can rely on us around the clock for any emergency repairs or assistance.</p>
-                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
@@ -83,7 +120,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">Dedicated Team</h5>
                         <p>Our team consists of skilled and experienced workers dedicated to providing expert solutions for your vehicle needs. Count on us for professionalism and expertise.</p>
-                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
@@ -93,7 +130,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">Modern Equipment</h5>
                         <p>We use modern equipment to ensure precision and efficiency in our services. Experience the benefits of advanced technology for your vehicle maintenance.</p>
-                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
@@ -156,7 +193,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
             </div>
         </div>
     </div>
@@ -247,7 +284,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Quality Tyre Services</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Experienced Tyre Technicians</p>
                                 <p><i class="fa fa-check text-success me-3"></i>State-of-the-Art Equipment</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -265,7 +302,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Comprehensive Battery Testing</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Expert Battery Replacement</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Regular Battery Maintenance</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -283,7 +320,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>On-Site Car Repairs</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Mobile Diagnostics</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Convenient Maintenance Services</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -301,7 +338,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Full-Service Auto Repairs</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Car Paint</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Diagnostic Services</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -319,7 +356,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>24/7 Emergency Repairs</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Roadside Assistance</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Scheduled Maintenance</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -329,8 +366,6 @@
     </div>
 </div>
 <!-- Service End -->
-
-
 
 
 <!-- Booking Start -->

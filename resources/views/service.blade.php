@@ -71,7 +71,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Quality Tyre Services</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Experienced Tyre Technicians</p>
                                 <p><i class="fa fa-check text-success me-3"></i>State-of-the-Art Equipment</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Comprehensive Battery Testing</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Expert Battery Replacement</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Regular Battery Maintenance</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>On-Site Car Repairs</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Mobile Diagnostics</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Convenient Maintenance Services</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>Full-Service Auto Repairs</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Car Paint</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Diagnostic Services</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                                 <p><i class="fa fa-check text-success me-3"></i>24/7 Emergency Repairs</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Roadside Assistance</p>
                                 <p><i class="fa fa-check text-success me-3"></i>Scheduled Maintenance</p>
-                                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5 mt-3">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                         </div>
                     </div>

@@ -71,7 +71,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="whatsapp://send?phone=+971585914376" class="btn btn-primary py-3 px-5">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-primary py-3 px-5">WhatsApp Us<i class="fa fa-arrow-right ms-3"></i></a>
             </div>
         </div>
     </div>
@@ -89,7 +89,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">24/7 Service</h5>
                         <p>We understand that vehicle issues can happen anytime. Our 24/7 service ensures that you can rely on us around the clock for any emergency repairs or assistance.</p>
-                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">Dedicated Team</h5>
                         <p>Our team consists of skilled and experienced workers dedicated to providing expert solutions for your vehicle needs. Count on us for professionalism and expertise.</p>
-                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                     <div class="ps-4">
                         <h5 class="mb-3">Modern Equipment</h5>
                         <p>We use modern equipment to ensure precision and efficiency in our services. Experience the benefits of advanced technology for your vehicle maintenance.</p>
-                        <a class="text-primary border-bottom" href="whatsapp://send?phone=+971585914376">WhatsApp Us</a>
+                        <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank">WhatsApp Us</a>
                     </div>
                 </div>
             </div>
