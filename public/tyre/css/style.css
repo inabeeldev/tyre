@@ -29,6 +29,13 @@
     margin-bottom: 10px;
 }
 
+@media (max-width: 767px) {
+    .display-3 {
+        font-size: 1.5rem; /* Adjust this value for smaller screens */
+        /* margin-bottom: 11rem !important; */
+    }
+}
+
 /* @media (max-width: 767px) {
     .contact-icons {
         position: fixed;
@@ -186,7 +193,7 @@
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
         position: relative;
-        min-height: 450px;
+        min-height: 480px;
     }
 
     #header-carousel .carousel-item img {

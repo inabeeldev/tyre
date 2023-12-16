@@ -7,7 +7,7 @@
     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="w-100" src="{{ asset('public/tyre/img/29a.jpg') }}" alt="Image">
+                <img class="w-100" src="{{ asset('public/tyre/img/39a.jpg') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center">
                     <div class="container">
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
