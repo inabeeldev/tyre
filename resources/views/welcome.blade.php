@@ -85,10 +85,11 @@
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
-                <a href="tel:+971585914376" class="h-100 d-inline-flex align-items-center py-3 me-4">
+                <a href="tel:+971585914376" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="h-100 d-inline-flex align-items-center py-3 me-4">
                     <small class="fa fa-phone-alt text-primary me-2"></small>
                     <small>+971 58 591 4376</small>
                 </a>
+
 
                 {{-- <div class="h-100 d-inline-flex align-items-center">
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -117,7 +118,8 @@
                 <a href="{{ url('/services') }}" class="nav-item nav-link{{ Request::is('services') ? ' active' : '' }}">Services</a>
                 <a href="{{ url('/contact') }}" class="nav-item nav-link{{ Request::is('contact') ? ' active' : '' }}">Contact</a>
             </div>
-            <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" class="btn btn-success py-4 px-lg-5 d-none d-lg-block" target="_blank">Whatsapp Us<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" onclick="gtag('event', 'whatsapp_button_click', { 'event_category': 'WhatsApp', 'event_label': 'Car Assistance' });" class="btn btn-success py-4 px-lg-5 d-none d-lg-block" target="_blank">Whatsapp Us<i class="fa fa-arrow-right ms-3"></i></a>
+
 
         </div>
     </nav>
@@ -191,8 +193,8 @@
 
 
 <div class="contact-icons text-center">
-    <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" class="btn btn-lg btn-success btn-lg-square"><i class="fab fa-whatsapp"></i></a>
-    <a href="tel:+971585914376" class="btn btn-lg btn-primary btn-lg-square"><i class="fas fa-phone"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" onclick="gtag('event', 'whatsapp_button_click', { 'event_category': 'WhatsApp', 'event_label': 'Car Assistance' });" class="btn btn-lg btn-success btn-lg-square"><i class="fab fa-whatsapp"></i></a>
+    <a href="tel:+971585914376" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="btn btn-lg btn-primary btn-lg-square"><i class="fas fa-phone"></i></a>
 </div>
 
 <!-- Back to Top -->
