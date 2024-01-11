@@ -14,7 +14,7 @@
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
                                 <h1 class="display-3 text-white mb-4 pb-3 animated slideInUp">
-                                    Your ALL-IN-ONE ON-DEMAND MOBILE NEW TYRE, and auto repair solution provider
+                                    Your On-Demand Hub for Top-Notch New Car Tyres and Emergency Tyre Repair, Anytime, Anywhere!
                                 </h1>
                                 <a href="tel:+15551234567" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
@@ -34,7 +34,7 @@
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
-                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInUp">Qualified Car Repair Service Center</h1>
+                                <h1 class="display-3 text-white mb-4 pb-3 animated slideInUp">Your Trustworthy Partner in 24-Hour, Qualified Car Tire Repair Services</h1>
                                 <a href="tel:+15551234567" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
