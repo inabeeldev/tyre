@@ -8,13 +8,91 @@
     <meta content="" name="keywords">
     <meta content="" name="description">
 
+    <meta property="og:title" content="OnlineTireShop - Car Services">
+    <meta property="og:site_name" content="Online Tire Shop">
+    <meta property="og:url" content="https://onlinetireshop.ae/">
+    <meta property="og:description" content="Online Tire Service is one of the prominent online tyre trading companies in the Middle East. Our Tyre Services are designed to keep your vehicle running smoothly and safely. Whether you need new tyres, tire repairs, or tire maintenance, we've got you covered.">
+    <meta property="og:type" content="business.business">
+    <meta property="og:image" content="">
+
+    <link rel="canonical" href="https://onlinetireshop.ae/" />
+
+
+    <!-- Breadcrumbs Schema Markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Online Tire Shop",
+            "item": "https://onlinetireshop.ae/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tyre Services",
+            "item": "https://onlinetireshop.ae/services"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "About OTS",
+            "item": "https://onlinetireshop.ae/about"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Contact Us",
+            "item": "https://onlinetireshop.ae/contact"
+        }
+        ]
+    }
+    </script>
+
+    <!-- Local Business Schema Markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Online Tire Shop",
+        "image": "https://onlinetireshop.ae/public/tyre/img/6a.jpg",
+        "@id": "",
+        "url": "https://onlinetireshop.ae/",
+        "telephone": "+971 58 591 4376",
+        "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dubai",
+        "addressLocality": "Dubai",
+        "postalCode": "25314",
+        "addressCountry": "AE"
+        },
+        "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+        },
+        "sameAs": "https://onlinetireshop.ae/"
+    }
+    </script>
+
     <!-- Favicon -->
     <link href="{{ asset('public/tyre/img/favicon.png') }}" rel="icon">
 
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!-- Replace your current Google Fonts link with this: -->
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;700&family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;700&family=Ubuntu:wght@400;500&display=swap" onload="this.media='all'; document.getElementById('spinner').style.display='none'" media="print">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -34,7 +112,7 @@
 
     <!-- Google tag (gtag.js) -->
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFV1FX6BK7"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFV1FX6BK7" defer></script>
 
     <script>
     window.dataLayer = window.dataLayer || [];
@@ -201,20 +279,20 @@
 <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 
-    <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="{{ asset('public/tyre/lib/wow/wow.min.js') }}"></script>
-    <script src="{{ asset('public/tyre/lib/easing/easing.min.js') }}"></script>
-    <script src="{{ asset('public/tyre/lib/waypoints/waypoints.min.js') }}"></script>
-    <script src="{{ asset('public/tyre/lib/counterup/counterup.min.js') }}"></script>
-    <script src="{{ asset('public/tyre/lib/owlcarousel/owl.carousel.min.js') }}"></script>
-    <script src="{{ asset('public/tyre/lib/tempusdominus/js/moment.min.js') }}"></script>
-    <script src="{{ asset('public/tyre/lib/tempusdominus/js/moment-timezone.min.js') }}"></script>
-    <script src="{{ asset('public/tyre/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js') }}"></script>
+    <script defer src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script defer src="{{ asset('public/tyre/lib/wow/wow.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/lib/easing/easing.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/lib/waypoints/waypoints.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/lib/counterup/counterup.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/lib/owlcarousel/owl.carousel.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/lib/tempusdominus/js/moment.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/lib/tempusdominus/js/moment-timezone.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js') }}"></script>
+    <script defer src="{{ asset('public/tyre/js/main.js') }}"></script>
 
-    <!-- Template Javascript -->
-    <script src="{{ asset('public/tyre/js/main.js') }}"></script>
+
+
 </body>
 
 </html>

@@ -62,7 +62,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/6a.jpg') }}"
-                                        style="object-fit: cover; height:125% !important;" alt="">
+                                        style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -80,7 +80,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/21a.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -98,7 +98,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/service-3.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -116,7 +116,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/22a.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -134,7 +134,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/service-2.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -164,7 +164,7 @@
         </div>
         <div class="owl-carousel testimonial-carousel position-relative">
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Kumar Shyam</h5>
                 <p>Dubai</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -172,7 +172,7 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Sajad Aslam</h5>
                 <p>Abu Dhabi</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -180,7 +180,7 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Efren Arroyo Jr.</h5>
                 <p>Sharjah</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -188,7 +188,7 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Chahrazed Abdennour</h5>
                 <p>Dubai</p>
                 <div class="testimonial-text bg-light text-center p-4">

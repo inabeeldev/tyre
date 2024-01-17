@@ -19,7 +19,7 @@
                                 <a href="tel:+15551234567" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
-                                <img class="w-100" src="{{ asset('public/tyre/img/19a.png') }}" alt="Image">
+                                <img class="w-100" src="{{ asset('public/tyre/img/19a.png') }}" alt="Image" loading="lazy">
 
                             </div>
                         </div>
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="w-100" src="{{ asset('public/tyre/img/28a.jpg') }}" alt="Image">
+                <img class="w-100" src="{{ asset('public/tyre/img/28a.jpg') }}" alt="Image" loading="lazy">
 
                 <div class="carousel-caption d-flex align-items-center">
                     <div class="container">
@@ -38,7 +38,7 @@
                                 <a href="tel:+15551234567" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
-                                <img class="w-100" src="{{ asset('public/tyre/img/26a.png') }}" alt="Image">
+                                <img class="w-100" src="{{ asset('public/tyre/img/26a.png') }}" alt="Image" loading="lazy">
 
                             </div>
                         </div>
@@ -69,28 +69,28 @@
         <div class="row gx-5">
             <div class="col-lg-3 py-3 bg-column mr-3">
                 <div class="py-3">
-                    <img src="{{ asset('public/tyre/img/35a.jpg') }}" alt="Service 1" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <img src="{{ asset('public/tyre/img/35a.jpg') }}" alt="Service 1" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;" loading="lazy">
                     <h4 class="service-title">Quality Repairs</h4>
                     <p class="service-description">Our experienced technicians provide top-notch car repair services, specializing in tire repairs. We ensure the highest quality repairs for your vehicle, extending the life of your tires and enhancing your overall driving experience.</p>
                 </div>
             </div>
             <div class="col-lg-3 py-3 bg-column mr-3">
                 <div class="py-3">
-                    <img src="{{ asset('public/tyre/img/36a.jpg') }}" alt="Service 2" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <img src="{{ asset('public/tyre/img/36a.jpg') }}" alt="Service 2" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;" loading="lazy">
                     <h4 class="service-title">Onsite Tire Repair</h4>
                     <p class="service-description">Experience the convenience of our onsite tire repair service. Our team will come to you, providing quick and reliable tire repairs wherever you are. We understand the importance of your time and strive to make tire repairs hassle-free.</p>
                 </div>
             </div>
             <div class="col-lg-3 py-3 bg-column mr-3">
                 <div class="py-3">
-                    <img src="{{ asset('public/tyre/img/37a.jpg') }}" alt="Service 3" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <img src="{{ asset('public/tyre/img/37a.jpg') }}" alt="Service 3" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;" loading="lazy">
                     <h4 class="service-title">New Tire Service</h4>
                     <p class="service-description">Explore our selection of high-quality new tires. Whether you need a replacement or an upgrade, we offer a range of tire options to suit your vehicle and driving preferences. Drive with confidence on our top-of-the-line new tires.</p>
                 </div>
             </div>
             <div class="col-lg-3 py-3 bg-column">
                 <div class="py-3">
-                    <img src="{{ asset('public/tyre/img/38a.jpg') }}" alt="Service 4" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;">
+                    <img src="{{ asset('public/tyre/img/38a.jpg') }}" alt="Service 4" class="img-fluid fixed-image-size mb-3" style="border-radius:10px;" loading="lazy">
                     <h4 class="service-title">Customer Satisfaction</h4>
                     <p class="service-description">Our commitment to customer satisfaction has earned us recognition in the automotive industry. Experience the difference in our tire services, from repairs to new tire installations. We prioritize your safety and driving comfort.</p>
                 </div>
@@ -147,7 +147,7 @@
         <div class="row g-5">
             <div class="col-lg-6 pt-4" style="min-height: 400px;">
                 <div class="position-relative h-100 wow fadeInUpBig" data-wow-delay="0.1s">
-                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/16a.jpg') }}" style="object-fit: cover;" alt="">
+                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/16a.jpg') }}" style="object-fit: cover;" alt="" loading="lazy">
                     <div class="position-absolute top-0 end-0 mt-n4 me-n4 py-4 px-5" style="background: rgba(0, 0, 0, .08);">
                         <h1 class="display-4 text-white mb-0">15 <span class="fs-4">Years</span></h1>
                         <h4 class="text-white">of Service</h4>
@@ -275,7 +275,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/6a.jpg') }}"
-                                        style="object-fit: cover; height:125% !important;" alt="">
+                                        style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -293,7 +293,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/21a.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -311,7 +311,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/service-3.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -329,7 +329,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/22a.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -347,7 +347,7 @@
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
                                     <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/service-2.jpg') }}"
-                                    style="object-fit: cover; height:125% !important;" alt="">
+                                    style="object-fit: cover; height:125% !important;" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -396,7 +396,7 @@
         </div>
         <div class="owl-carousel testimonial-carousel position-relative">
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Kumar Shyam</h5>
                 <p>Dubai</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -404,7 +404,7 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Sajad Aslam</h5>
                 <p>Abu Dhabi</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -412,7 +412,7 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Efren Arroyo Jr.</h5>
                 <p>Sharjah</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -420,7 +420,7 @@
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;">
+                <img class="bg-primary rounded-circle p-2 mx-auto mb-3" src="{{ asset('public/tyre/img/30a.jpg') }}" style="width: 80px; height: 80px;" loading="lazy">
                 <h5 class="mb-0">Chahrazed Abdennour</h5>
                 <p>Dubai</p>
                 <div class="testimonial-text bg-light text-center p-4">
@@ -442,28 +442,28 @@
                 <!-- Initial Three Brand Images -->
                 <div class="row">
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_michelin-1024x265.png" class="d-block mx-auto img-fluid" alt="Brand 1">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_michelin-1024x265.png" class="d-block mx-auto img-fluid" alt="Brand 1" loading="lazy">
                     </div>
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_goodyear-1024x278.png" class="d-block mx-auto img-fluid" alt="Brand 2">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_goodyear-1024x278.png" class="d-block mx-auto img-fluid" alt="Brand 2" loading="lazy">
                     </div>
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_bridgestone_res.png" class="d-block mx-auto img-fluid" alt="Brand 3">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_bridgestone_res.png" class="d-block mx-auto img-fluid" alt="Brand 3" loading="lazy">
                     </div>
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_pirelli_res.png" class="d-block mx-auto img-fluid" alt="Brand 3">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/04/brands_pirelli_res.png" class="d-block mx-auto img-fluid" alt="Brand 3" loading="lazy">
                     </div>
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/05/bfgoodrich-logo-1024x164.png" class="d-block mx-auto img-fluid" alt="Brand 3">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/05/bfgoodrich-logo-1024x164.png" class="d-block mx-auto img-fluid" alt="Brand 3" loading="lazy">
                     </div>
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/05/continental-logo-1024x205.jpg" class="d-block mx-auto img-fluid" alt="Brand 3">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/05/continental-logo-1024x205.jpg" class="d-block mx-auto img-fluid" alt="Brand 3" loading="lazy">
                     </div>
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/05/firestone-logo-1024x151.png" class="d-block mx-auto img-fluid" alt="Brand 3">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/05/firestone-logo-1024x151.png" class="d-block mx-auto img-fluid" alt="Brand 3" loading="lazy">
                     </div>
                     <div class="col-md-3 mb-3">
-                        <img src="https://carhero.ae/wp-content/uploads/2023/05/falken-logo-1024x181.png" class="d-block mx-auto img-fluid" alt="Brand 3">
+                        <img src="https://carhero.ae/wp-content/uploads/2023/05/falken-logo-1024x181.png" class="d-block mx-auto img-fluid" alt="Brand 3" loading="lazy">
                     </div>
 
 

@@ -25,3 +25,4 @@ Route::get('/team', [App\Http\Controllers\TyreController::class, 'team'])->name(
 Route::get('/testimonial', [App\Http\Controllers\TyreController::class, 'testimonial'])->name('testimonial-page');
 Route::get('/contact', [App\Http\Controllers\TyreController::class, 'contact'])->name('contact-page');
 Route::get('/404', [App\Http\Controllers\TyreController::class, 'error'])->name('404-page');
+Route::get('/sitemap.xml', [App\Http\Controllers\SitemapController::class, 'index']);
