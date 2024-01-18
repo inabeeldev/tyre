@@ -7,7 +7,7 @@
     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="w-100" src="{{ asset('public/tyre/img/39a.jpg') }}" alt="Image">
+                <img class="w-100" src="{{ asset('public/tyre/img/39a.webp') }}" alt="Image">
                 <div class="carousel-caption d-flex align-items-center">
                     <div class="container">
                         <div class="row align-items-center justify-content-center justify-content-lg-start">
@@ -19,7 +19,7 @@
                                 <a href="tel:+15551234567" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
-                                <img class="w-100" src="{{ asset('public/tyre/img/19a.png') }}" alt="Image" loading="lazy">
+                                <img class="w-100" src="{{ asset('public/tyre/img/19a.webp') }}" alt="Image" loading="lazy">
 
                             </div>
                         </div>
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="w-100" src="{{ asset('public/tyre/img/28a.jpg') }}" alt="Image" loading="lazy">
+                <img class="w-100" src="{{ asset('public/tyre/img/28a.webp') }}" alt="Image" loading="lazy">
 
                 <div class="carousel-caption d-flex align-items-center">
                     <div class="container">
@@ -38,7 +38,7 @@
                                 <a href="tel:+15551234567" onclick="gtag('event', 'call_button_click', { 'event_category': 'Call', 'event_label': '+971585914376' }); return true;" class="btn btn-primary py-3 px-5 animated slideInDown">Call Us Now<i class="fa fa-arrow-right ms-3"></i></a>
                             </div>
                             <div class="col-lg-5 d-none d-lg-flex animated shake-slow">
-                                <img class="w-100" src="{{ asset('public/tyre/img/26a.png') }}" alt="Image" loading="lazy">
+                                <img class="w-100" src="{{ asset('public/tyre/img/26a.webp') }}" alt="Image" loading="lazy">
 
                             </div>
                         </div>
