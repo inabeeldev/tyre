@@ -3,6 +3,11 @@
 @section('content')
 
 
+@section('title', 'Contact Us For 24/7 Tyre Repair & Emergency Change in Dubai.')
+@section('meta_description', 'Reach out to us for immediate assistance with 24/7 Tyre Repair & Emergency Change in Dubai. Your safety on the road is our priority.')
+
+
+
 <!-- Page Header Start -->
 <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">
     <div class="container-fluid page-header-inner py-5">

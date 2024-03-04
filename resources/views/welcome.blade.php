@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>OnlineTireShop - Car Services</title>
+    <title>@yield('title', 'Online Tyre Shop - Explore a Wide Range of Car Tires In Dubai')</title>
+    <meta name="description" content="@yield('meta_description', 'Discover top-quality car tires at our Online Tyre Shop, your go-to destination for the best tyre shops in Dubai')">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -34,19 +35,19 @@
             "@type": "ListItem",
             "position": 2,
             "name": "Tyre Services",
-            "item": "https://onlinetireshop.ae/services"
+            "item": "https://onlinetireshop.ae/tyre-service-dubai"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "About OTS",
-            "item": "https://onlinetireshop.ae/about"
+            "item": "https://onlinetireshop.ae/about-us"
         },
         {
             "@type": "ListItem",
             "position": 4,
             "name": "Contact Us",
-            "item": "https://onlinetireshop.ae/contact"
+            "item": "https://onlinetireshop.ae/contact-us"
         }
         ]
     }
@@ -193,9 +194,9 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="{{ url('/') }}" class="nav-item nav-link{{ Request::is('/') ? ' active' : '' }}">Home</a>
-                <a href="{{ url('/about') }}" class="nav-item nav-link{{ Request::is('about') ? ' active' : '' }}">About</a>
-                <a href="{{ url('/services') }}" class="nav-item nav-link{{ Request::is('services') ? ' active' : '' }}">Services</a>
-                <a href="{{ url('/contact') }}" class="nav-item nav-link{{ Request::is('contact') ? ' active' : '' }}">Contact</a>
+                <a href="{{ url('/about-us') }}" class="nav-item nav-link{{ Request::is('about-us') ? ' active' : '' }}">About</a>
+                <a href="{{ url('/tyre-service-dubai') }}" class="nav-item nav-link{{ Request::is('tyre-service-dubai') ? ' active' : '' }}">Services</a>
+                <a href="{{ url('/contact-us') }}" class="nav-item nav-link{{ Request::is('contact-us') ? ' active' : '' }}">Contact</a>
             </div>
             <a href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" onclick="gtag('event', 'whatsapp_button_click', { 'event_category': 'WhatsApp', 'event_label': 'Car Assistance' });" class="btn btn-success py-4 px-lg-5 d-none d-lg-block" target="_blank">Whatsapp Us<i class="fa fa-arrow-right ms-3"></i></a>
 
@@ -231,13 +232,13 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-primary mb-4">Services</h4>
-                    <a class="btn btn-link" href="{{ url('services') }}">Flat Tire Services</a>
-                    <a class="btn btn-link" href="{{ url('services') }}">Tire Repairing</a>
-                    <a class="btn btn-link" href="{{ url('services') }}">Vehicle Battery</a>
-                    <a class="btn btn-link" href="{{ url('services') }}">Pre-RTA Test</a>
-                    <a class="btn btn-link" href="{{ url('services') }}">New Tire</a>
-                    <a class="btn btn-link" href="{{ url('services') }}">Auto Works</a>
-                    <a class="btn btn-link" href="{{ url('services') }}">Car Washing</a>
+                    <a class="btn btn-link" href="{{ route('service-page') }}">Flat Tire Services</a>
+                    <a class="btn btn-link" href="{{ route('service-page') }}">Tire Repairing</a>
+                    <a class="btn btn-link" href="{{ route('service-page') }}">Vehicle Battery</a>
+                    <a class="btn btn-link" href="{{ route('service-page') }}">Pre-RTA Test</a>
+                    <a class="btn btn-link" href="{{ route('service-page') }}">New Tire</a>
+                    <a class="btn btn-link" href="{{ route('service-page') }}">Auto Works</a>
+                    <a class="btn btn-link" href="{{ route('service-page') }}">Car Washing</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-primary mb-4">About Us</h4>
@@ -259,9 +260,9 @@
                     <div class="col-md-6 text-center text-md-end">
                         <div class="footer-menu">
                             <a href="{{ url('/') }}">Home</a>
-                            <a href="{{ url('/about') }}">About</a>
-                            <a href="{{ url('/services') }}">Services</a>
-                            <a href="{{ url('/contact') }}">Contact</a>
+                            <a href="{{ url('/about-us') }}">About</a>
+                            <a href="{{ url('/tyre-service-dubai') }}">Services</a>
+                            <a href="{{ url('/contact-us') }}">Contact</a>
                         </div>
                     </div>
                 </div>

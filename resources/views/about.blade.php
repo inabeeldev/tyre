@@ -2,6 +2,9 @@
 
 @section('content')
 
+@section('title', 'Trusted Mobile Tyre Repair & Replacement Service in Dubai - Online Tyre Shop')
+@section('meta_description', 'Explore trusted mobile car tyre repair, battery, & new tyre replacement in Dubai. We are your nearest tyre shop, offering swift and reliable mobile services.')
+
 
 <!-- Page Header Start -->
 <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">

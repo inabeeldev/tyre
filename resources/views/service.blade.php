@@ -2,6 +2,10 @@
 
 @section('content')
 
+@section('title', 'Unveil Tires Online Shop & Effortless Home Tire Service Dubai')
+@section('meta_description', 'Unveil Tires Online Shop. From the home tire service in Dubai to the convenience of finding the best tire service near you, we redefine your driving experience.')
+
+
 
 <!-- Page Header Start -->
 <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-2.jpg);">

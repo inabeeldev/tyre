@@ -19,10 +19,10 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', [App\Http\Controllers\TyreController::class, 'home'])->name('home-page');
-Route::get('/services', [App\Http\Controllers\TyreController::class, 'service'])->name('service-page');
-Route::get('/about', [App\Http\Controllers\TyreController::class, 'about'])->name('about-page');
+Route::get('/tyre-service-dubai', [App\Http\Controllers\TyreController::class, 'service'])->name('service-page');
+Route::get('/about-us', [App\Http\Controllers\TyreController::class, 'about'])->name('about-page');
 Route::get('/team', [App\Http\Controllers\TyreController::class, 'team'])->name('team-page');
 Route::get('/testimonial', [App\Http\Controllers\TyreController::class, 'testimonial'])->name('testimonial-page');
-Route::get('/contact', [App\Http\Controllers\TyreController::class, 'contact'])->name('contact-page');
+Route::get('/contact-us', [App\Http\Controllers\TyreController::class, 'contact'])->name('contact-page');
 Route::get('/404', [App\Http\Controllers\TyreController::class, 'error'])->name('404-page');
 Route::get('/sitemap.xml', [App\Http\Controllers\SitemapController::class, 'index']);

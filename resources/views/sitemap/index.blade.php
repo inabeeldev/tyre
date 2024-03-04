@@ -13,17 +13,17 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://onlinetireshop.ae/about</loc>
+  <loc>https://onlinetireshop.ae/about-us</loc>
   <lastmod>2024-01-04T20:27:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://onlinetireshop.ae/services</loc>
+  <loc>https://onlinetireshop.ae/tyre-service-dubai</loc>
   <lastmod>2024-01-04T20:27:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://onlinetireshop.ae/contact</loc>
+  <loc>https://onlinetireshop.ae/contact-us</loc>
   <lastmod>2024-01-04T20:27:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
