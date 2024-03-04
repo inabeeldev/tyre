@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <title>@yield('title', 'Online Tyre Shop - Explore a Wide Range of Car Tires In Dubai')</title>
     <meta name="description" content="@yield('meta_description', 'Discover top-quality car tires at our Online Tyre Shop, your go-to destination for the best tyre shops in Dubai')">
+    <meta name="keywords" content="roadside assistance dubai, tire repair shop, online tyre shop dubai, tyre change service near me, mobile tire repair dubai, tyre puncture repair mobile">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta content="" name="keywords">
     <meta content="" name="description">

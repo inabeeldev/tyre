@@ -460,3 +460,19 @@
     animation: shake 5s infinite; /* Adjust the duration as needed */
 }
 
+
+
+
+/* myCSS */
+
+.mph2 {
+    font-size: 1.2rem;
+}
+
+.aup1 {
+    font-size: 1.5rem;
+}
+
+.cup1 {
+    font-size: 1rem !important;
+}
