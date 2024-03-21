@@ -2,7 +2,7 @@
 
 @section('content')
 
-@section('title', 'Unveil Tires Online Shop & Effortless Home Tire Service Dubai')
+@section('title', ' Introducing Tires Online Shop & Easy Home Tyre Service Dubai')
 @section('meta_description', 'Unveil Tires Online Shop. From the home tire service in Dubai to the convenience of finding the best tire service near you, we redefine your driving experience.')
 
 
@@ -39,19 +39,19 @@
                 <div class="nav w-100 nav-pills me-4">
                     <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
                         <i class="fa fa-car-side fa-2x me-3"></i>
-                        <h4 class="m-0">Tyres</h4>
+                        <h4 class="m-0">New Tires</h4>
                     </button>
                     <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
                         <i class="fa fa-car-battery fa-2x me-3"></i>
-                        <h4 class="m-0">Vehicle Battery</h4>
+                        <h4 class="m-0">Mobile Battery Replacement</h4>
                     </button>
                     <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
                         <i class="fa fa-car fa-2x me-3"></i>
-                        <h4 class="m-0">Mobile Car</h4>
+                        <h4 class="m-0">Tyre Repair</h4>
                     </button>
                     <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
                         <i class="fa fa-oil-can fa-2x me-3"></i>
-                        <h4 class="m-0">Auto Works</h4>
+                        <h4 class="m-0">Automotive Solutions</h4>
                     </button>
                     <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-5" type="button">
                         <i class="fa fa-cog fa-2x me-3"></i>
@@ -70,36 +70,35 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <h3 class="mb-3">Home Tire Service Dubai</h3>
-                                <p class="mb-4">Embark on a journey of unrivaled automotive care with our comprehensive Tyre Services,
-                                    meticulously designed to ensure your vehicle runs smoothly and safely at all times. Whether you
-                                    find yourself in need of new tyres, tire repairs, or routine maintenance, rest assured, we've got
-                                    you covered.</p>
+                                <h3 class="mb-3">Home New Tire Service Dubai</h3>
+                                <p class="mb-4">Experience seamless automotive care with our tailored New Tire Services, ensuring your vehicle runs
+                                    smoothly and safely at all times. Whether you require brand-new tires, emergency replacements for a
+                                    tire burst, or routine maintenance, rely on us for precision and professionalism.</p>
                                     <div class="service-list">
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>Quality Tyre Services:</strong> Step into a realm where quality meets precision. Our Tyre Services are a testament to our
-                                                commitment to delivering excellence, ensuring your vehicle's optimal performance on the road.
-                                                From choosing the right tyres to meticulous installations, we prioritize the quality of service.
+                                                <strong>Premium Tire Solutions:</strong> Step into a realm of premium quality and precision with our New Tire Services.
+                                                We offer a diverse range of top-tier tire brands, including Michelin, BF Goodrich, Continental, Goodyear,
+                                                Bridgestone, Firestone, Pirelli, Falken, and more. From high-performance tires to all-season options, we
+                                                cater to every make and model of car.
                                             </p>
                                         </div>
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>Experienced Tyre Technicians:</strong> Entrust your vehicle to our team of experienced and skilled Tyre Technicians. Beyond expertise,
-                                                they bring a wealth of knowledge to every service, assuring you of the finest care. Experience
-                                                unparalleled professionalism, whether you're considering Dunlop tyres in the UAE or need
-                                                immediate attention from our 24-hour tire repair shop nearby.
+                                                <strong>Expert Tire Technicians:</strong> Entrust your vehicle to our team of highly experienced and skilled Tire
+                                                Technicians. With their wealth of knowledge and expertise, they ensure that every service meets the
+                                                highest standards of professionalism and care. Whether you require urgent assistance or routine
+                                                maintenance, we've got you covered.
                                             </p>
                                         </div>
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>State-of-the-Art Equipment:</strong> Our commitment to providing state-of-the-art services is manifested in the cutting-edge
-                                                equipment we utilize. From tire repairs to maintenance, every aspect of our service is backed by
-                                                advanced technology. Experience the precision that modern equipment brings, ensuring your
-                                                vehicle receives the care it deserves.
+                                                <strong>Emergency New Tire Service:</strong> Facing a tire burst or unexpected tire issues? We've got you covered with
+                                                our emergency new tire service. Our technicians are equipped to handle any situation, providing quick
+                                                and efficient replacements to get you back on the road safely
                                             </p>
                                         </div>
                                     </div>
@@ -208,32 +207,32 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <h3 class="mb-3"> Emergency Automotive Tires Solutions</h3>
-                                <p class="mb-4">Rely on our skilled technicians to meet all your automotive needs, offering a wide spectrum of
-                                    services designed to ensure your vehicle runs seamlessly and looks its best</p>
+                                <h3 class="mb-3">Comprehensive Car Paint and Automotive Solutions</h3>
+                                <p class="mb-4">Trust our skilled technicians to cater to all your automotive needs, offering a diverse range of services
+                                    focused on enhancing your vehicle's performance and appearance</p>
                                     <div class="service-list">
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>Holistic Automotive Repairs:</strong> Experience top-notch care with our Full-Service Auto Repairs. Our skilled technicians handle
-                                                everything from routine maintenance to complex repairs, providing comprehensive solutions that
-                                                keep your vehicle in optimal condition
+                                                <strong>Complete Auto Repairs:</strong> Experience excellence with our Full-Service Auto Repairs. Our adept technicians
+                                                handle everything from routine maintenance to intricate repairs, ensuring your vehicle operates
+                                                seamlessly on the road.
                                             </p>
                                         </div>
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>Precision Car Paint Services:</strong> Elevate your vehicle's aesthetics with our expert Car Paint services. Our technicians deliver
-                                                precision and attention to detail, ensuring your car looks as good as new. Whether you're
-                                                addressing imperfections or exploring a fresh new look, trust us for quality paintwork.
+                                                <strong>Expert Car Paint Services:</strong> Enhance your vehicle's visual appeal with our precision Car Paint services. Our
+                                                technicians prioritize attention to detail, delivering flawless paintwork to revitalize your car's
+                                                appearance. Whether you're addressing imperfections or seeking a fresh new look, rely on us for top-quality paint services.
                                             </p>
                                         </div>
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>Advanced Diagnostic Solutions:</strong> Navigate automotive issues with ease through our Diagnostic Services. Our advanced diagnostic
-                                                tools and skilled technicians work in tandem to identify and address issues promptly, ensuring
-                                                your vehicle's performance is at its peak
+                                                <strong>State-of-the-Art Diagnostics:</strong> Navigate automotive challenges effortlessly with our Advanced Diagnostic
+                                                Solutions. Equipped with cutting-edge diagnostic tools, our skilled technicians swiftly identify and
+                                                resolve issues, ensuring optimal performance for your vehicle.
                                             </p>
                                         </div>
                                     </div>
@@ -252,31 +251,40 @@
                             </div>
                             <div class="col-md-6">
                                 <h3 class="mb-3">Convenient On-Demand Solutions</h3>
-                                <p class="mb-4">Discover unmatched convenience with our On-Demand Services, where ease meets efficiency.
-                                    Whether you find yourself in need of emergency repairs, require roadside assistance, or prefer
-                                    scheduled maintenance, rest assured, we've got you covered</p>
+                                <p class="mb-4">Our platform awaits you with our On-Demand Services, where ease meets efficiency. Whether you're in
+                                    need of emergency repairs, roadside assistance, or scheduled maintenance, we've got you covered.</p>
                                     <div class="service-list">
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>24/7 Emergency Car Tyre Repairs:</strong> Count on us around the clock for swift and reliable emergency repairs. Our dedicated team is
-                                                ready to address unexpected issues, ensuring you're back on the road in no time.
+                                                <strong>24/7 Emergency New Tire Replacement:</strong>Trust us for swift and reliable emergency tire replacements,
+                                                available round-the-clock. Our dedicated team ensures you're back on the road safely, no matter the
+                                                hour.
                                             </p>
                                         </div>
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>Roadside Assistance - Flat Tyre Repair:</strong> Experience prompt assistance with our Roadside Assistance services, specializing in swift flat tyre
-                                                repairs. No matter where you are, our team is equipped to handle unexpected tyre issues,
-                                                providing you with peace of mind on your journey.
+                                                <strong>Roadside Assistance for Flat Tyre Repair:</strong>  Experience prompt assistance with our Roadside Assistance
+                                                services, specializing in swift flat tire repairs. Wherever you are, our team is equipped to handle
+                                                unexpected tire issues, providing peace of mind on your journey.
                                             </p>
                                         </div>
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>Predetermined Solutions:</strong> Stay ahead with our predetermined solutions services, tailored to fit seamlessly into your
-                                                schedule. Whether it's routine checks or proactive measures, we ensure your vehicle receives the
-                                                care it deserves, keeping you on the road with confidence.
+                                                <strong>Comprehensive Automotive Solutions:</strong> : Stay ahead with our comprehensive automotive solutions,
+                                                including expert car paint services. Our skilled technicians prioritize attention to detail, ensuring your
+                                                vehicle looks its best. Whether it's routine checks or proactive measures, we keep you on the road with
+                                                confidence
+                                            </p>
+                                        </div>
+                                        <div class="service-item">
+                                            <p>
+                                                <i class="fa fa-check text-success"></i>
+                                                <strong>Battery Replacement Services:</strong> In need of a battery replacement? Count on our mobile-based services in
+                                                Dubai to deliver prompt solutions. Simply give us a call, and we'll have you covered in no time, offering
+                                                affordable prices for each service.
                                             </p>
                                         </div>
                                     </div>

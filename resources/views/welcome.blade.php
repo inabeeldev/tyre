@@ -17,7 +17,7 @@
     <meta property="og:type" content="business.business">
     <meta property="og:image" content="">
 
-    <link rel="canonical" href="https://onlinetireshop.ae/" />
+    <link rel="canonical" href="https://www.onlinetireshop.ae/" />
 
 
     <!-- Breadcrumbs Schema Markup -->

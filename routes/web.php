@@ -26,3 +26,9 @@ Route::get('/testimonial', [App\Http\Controllers\TyreController::class, 'testimo
 Route::get('/contact-us', [App\Http\Controllers\TyreController::class, 'contact'])->name('contact-page');
 Route::get('/404', [App\Http\Controllers\TyreController::class, 'error'])->name('404-page');
 Route::get('/sitemap.xml', [App\Http\Controllers\SitemapController::class, 'index']);
+
+
+Route::get('/about', [App\Http\Controllers\RedirectController::class, 'about']);
+Route::get('/contact', [App\Http\Controllers\RedirectController::class, 'contact']);
+Route::get('/services', [App\Http\Controllers\RedirectController::class, 'service']);
+
