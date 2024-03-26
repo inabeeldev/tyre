@@ -37,7 +37,7 @@
             </div>
             <div class="col-lg-6 wow fadeInRight">
                 <h6 class="text-primary text-uppercase">// About Us //</h6>
-                <h1 class="mb-4"><span class="text-primary"> Online Tyre Shop</span> Is A Trusted Mobile Tyre Repair & Replacement Service in Duba</h1>
+                <h1 class="mb-4"><span class="text-primary"> <a href="{{ route('home-page') }}">Online Tyre Shop</a></span> Is A Trusted Mobile Tyre Repair & Replacement Service in Dubai</h1>
                 <p class="mb-4">Welcome to our Online Tyres Trading Hub, your trusted companion in navigating the dynamic tire market
                     of the Middle East. Established in 2018 and headquartered in Dubai, we've swiftly risen to prominence,
                     transforming into a leading tire trading company. Our extensive network of authorized distributors is
@@ -120,7 +120,7 @@
                     <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h4 class="mb-3">Modern Equipment</h4>
-                        <p>We use modern equipment to ensure precision and efficiency in our services. Experience the benefits of advanced technology for your vehicle maintenance.</p>
+                        <p>We use modern equipment to ensure precision and efficiency in <a href="{{ route('service-page') }}">our services</a>. Experience the benefits of advanced technology for your vehicle maintenance.</p>
                         <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank" onclick="gtag('event', 'whatsapp_button_click', { 'event_category': 'WhatsApp', 'event_label': 'Car Assistance' });">WhatsApp Us</a>
                     </div>
                 </div>

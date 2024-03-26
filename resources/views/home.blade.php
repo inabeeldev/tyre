@@ -14,7 +14,7 @@
                             <div class="col-10 col-lg-7 text-center text-lg-start">
                                 <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
                                 <h1 class="display-6 text-white mb-4 pb-2 animated slideInUp">
-                                    Discover Excellence at Our Best Online Tyre Shop – The Ultimate Destination for Quality Car Tires in Dubai!
+                                    Experience Excellence at Our Best Online Tyre Shop – The Ultimate Destination for Quality Car Tires in Dubai!
                                 </h1>
 
                                 <h2 class="text-white mb-4 pb-2 animated slideInUp mph2">
@@ -153,7 +153,7 @@
                     <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                     <div class="ps-4">
                         <h5 class="mb-3">Modern Equipment</h5>
-                        <p>We employ state-of-the-art equipment to guarantee precision and efficiency in our services.
+                        <p>We employ state-of-the-art equipment to guarantee precision and efficiency in <a href="{{ route('service-page') }}">our services</a>.
                             Experience the benefits of advanced technology for your vehicle maintenance, ensuring top-notch
                             service at our car maintenance near me center.</p>
                         <a class="text-primary border-bottom" href="https://api.whatsapp.com/send?phone=+971585914376&text=Hey%2C%20I%20need%20car%20assistance.%20Are%20you%20available%3F" target="_blank">WhatsApp Us</a>
@@ -183,7 +183,7 @@
             <div class="col-lg-6 wow fadeInRight">
                 <h6 class="text-primary text-uppercase">// About Us //</h6>
                 <h2 class="mb-4">Elevate Your Ride With The Best Spot for <span class="text-primary">Online Tyre Shop in Dubai</span></h2>
-                <p class="mb-4">Prominent Online Tyres Trading Company in the Middle East, based in Dubai since 2018. We've rapidly
+                <p class="mb-4">Prominent <a href="{{ route('about-page') }}">Online Tyres Trading Company</a> in the Middle East, based in Dubai since 2018. We've rapidly
                     grown to become a leading tire trading entity with a well-established network of authorized distributors
                     in the UAE.</p>
                 <div class="row g-4 mb-3 pb-3">
@@ -311,7 +311,7 @@
                             </div>
                             <div class="col-md-6">
                                 <h3 class="mb-3">Mobile Tyre Service</h3>
-                                <p class="mb-4">Our Best Tyres Service ensures that your vehicle runs smoothly and safely. From new tyre
+                                <p class="mb-4">Our Best <a href="{{ route('service-page') }}">Tyres Service</a> ensures that your vehicle runs smoothly and safely. From new tyre
                                     installations to tire repairs and maintenance of your car, we've got you covered.</p>
                                     <div class="service-list">
                                         <div class="service-item">

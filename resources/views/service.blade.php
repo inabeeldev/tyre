@@ -65,15 +65,15 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/6a.jpg') }}"
-                                        style="object-fit: cover; height:100% !important;" alt="24 hour tyre repair dubai" loading="lazy">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/1b.jpg') }}"
+                                        style="object-fit: cover; height:100% !important;" alt="New Tires" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <h3 class="mb-3">Home New Tire Service Dubai</h3>
                                 <p class="mb-4">Experience seamless automotive care with our tailored New Tire Services, ensuring your vehicle runs
                                     smoothly and safely at all times. Whether you require brand-new tires, emergency replacements for a
-                                    tire burst, or routine maintenance, rely on us for precision and professionalism.</p>
+                                    tire burst, or <a href="{{ route('about-page') }}">routine maintenance</a>, rely on us for precision and professionalism.</p>
                                     <div class="service-list">
                                         <div class="service-item">
                                             <p>
@@ -111,8 +111,8 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/21a.jpg') }}"
-                                    style="object-fit: cover; height:100% !important;" alt="car battery service near me" loading="lazy">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/2b.jpg') }}"
+                                    style="object-fit: cover; height:100% !important;" alt="Mobile Battery Replacement" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -158,8 +158,8 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/service-3.jpg') }}"
-                                    style="object-fit: cover; height:100% !important;" alt="emergency tyre repair" loading="lazy">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/3b.jpg') }}"
+                                    style="object-fit: cover; height:100% !important;" alt="Tyre Repair" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -171,7 +171,7 @@
                                         <div class="service-item">
                                             <p>
                                                 <i class="fa fa-check text-success"></i>
-                                                <strong>On-Site Car Repairs:</strong> Encounter hassle-free solutions with our on-site car repairs. Whether it's a flat tyre repair, engine
+                                                <strong>On-Site Car Repairs:</strong> Encounter hassle-free solutions with our on-site car repairs. Whether it's a <a href="{{ route('home-page') }}">flat tyre repair</a>, engine
                                                 issue, or any other concern, our skilled technicians are equipped to address them on the spot. We
                                                 bring expertise to your doorstep, minimizing disruptions to your schedule
                                             </p>
@@ -202,8 +202,8 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/22a.jpg') }}"
-                                    style="object-fit: cover; height:100% !important;" alt="car tyre shop near me" loading="lazy">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/4b.jpg') }}"
+                                    style="object-fit: cover; height:100% !important;" alt="Automotive Solutions" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -245,8 +245,8 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/service-2.jpg') }}"
-                                    style="object-fit: cover; height:100% !important;" alt="car maintenance near me" loading="lazy">
+                                    <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('public/tyre/img/5b.jpg') }}"
+                                    style="object-fit: cover; height:100% !important;" alt="On-Demand Services" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
